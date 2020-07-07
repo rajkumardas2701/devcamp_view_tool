@@ -20,6 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
+```ruby
+DevcampViewTool::Renderer.copyright 'Rajkumar Das', 'All rights reserved'
+```	
 
 ## Development
 
